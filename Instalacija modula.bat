@@ -1,0 +1,8 @@
+start /b /WAIT cmd.exe /c "pip install customtkinter"
+start /b /WAIT cmd.exe /c "pip install imageio"
+start /b /WAIT cmd.exe /c "pip install mysql-connector-python"
+start /b /WAIT cmd.exe /c "pip install numpy"
+start /b /WAIT cmd.exe /c "pip install opencv-python"
+start /b /WAIT cmd.exe /c "pip install Pillow"
+start /b /WAIT cmd.exe /c "pip install scikit-image"
+start /b /WAIT cmd.exe /c "pip install opencv-contrib-python"

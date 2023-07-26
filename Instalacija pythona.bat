@@ -1,0 +1,1 @@
+start /b /WAIT cmd.exe /c "winget install python3.10"
